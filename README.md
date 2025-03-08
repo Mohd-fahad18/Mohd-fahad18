@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd-Fahad18</h1>
-<h3 align="center">I am a Data scirnce student at Noida institute of engineering and technology</h3>
+<h3 align="center">I am a Data science student at Noida institute of engineering and technology</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
